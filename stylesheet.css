@@ -1,0 +1,118 @@
+header{
+	padding-top: 3px;
+}
+h1{
+	font-family: "Perpetua Titling MT", Serif;
+	font-size: 8vh;
+	padding-left: 5px;
+	color: #dd969a;
+	margin-top: 10px;
+	margin-bottom: 0;
+	text-align: center;
+
+}
+
+a{
+	text-decoration: none;
+}
+
+header img{
+	vertical-align:middle;
+	max-width:100%;
+	height:auto;
+	width: auto\9;
+}
+body{
+	font-size: 100%
+}
+#n1{
+	border-bottom: 1px solid gray;
+position: relative;
+min-width: 500px;
+	text-align: center;
+
+}
+ li{
+
+	font-size: 3vh;
+	text-align: center;
+	display: inline;
+	margin: 5vw;
+}
+li a{
+	text-decoration: none;
+	color: gray;
+	}
+	#n1 li a:hover{
+		color:pink;
+		text-shadow:0 0 1px gray;
+
+	}
+#n1 ul{
+	list-style-type: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+.ban{
+	position: relative;
+	margin:50px;
+	padding: 10px;
+    padding-bottom: 28px;
+    border-bottom: 1px solid silver;
+
+
+}
+
+.footer #left{
+	text-align: right;
+	background-color: silver;
+	padding:.15vh;
+}
+
+#left li{
+margin: 2.3vw;
+}
+#left li a{
+	color: white;
+}
+.news{
+	text-align: center;
+	margin-top: 0;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding:10px;
+}
+.news img{
+	padding-bottom:30px;
+	margin:15px;
+	border-bottom: 1px solid silver;
+}
+
+
+#discover{
+	  filter: drop-shadow(5px 5px 4px #222);
+	  	border-bottom: none;
+
+}
+
+ .news a:hover {
+	  filter: drop-shadow(5px 5px 4px #222);
+/*
+.enter {
+  position:absolute;
+  left:500px;
+  top:350px;
+}
+.enter a{
+	position:absolute;
+	
+	 height: auto;
+    width: auto\9;
+	font-size: 1.5em;
+	text-decoration: underline;
+	color: white;
+}*/

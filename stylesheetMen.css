@@ -1,0 +1,131 @@
+body{
+	font-size: 100%
+}
+header{
+	padding-top: 3px;
+}
+header h1{
+	font-family: "Perpetua Titling MT", Serif;
+	font-size: 8vh;
+	padding-left: 5px;
+	color: #dd969a;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	text-align: center;
+
+
+}
+
+a{
+	text-decoration: none;
+}
+header img{
+	vertical-align:middle;
+}
+	
+
+#n1{
+border-bottom: 1px solid gray;
+position: relative;
+min-width: 500px;
+	text-align: center;
+
+}
+ li{
+
+	font-size: 3vh;
+	text-align: center;
+	display: inline;
+	margin: 5vw;
+}
+li a{
+	color: gray;
+	}
+	#n1 li a:hover{
+		color:pink;
+		text-shadow:0px 0px 1px gray;
+
+	}
+#n1 ul{
+	list-style-type: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+.sidebar{
+	position: fixed;
+	height:100%;
+	width:15%;
+	margin:0px;
+}
+.sidebar #side li{
+	font-size: 2.5vh;
+ margin-left: 0px;
+ display:block;
+ vertical-align: middle;}
+ .right{
+ 		font-family: "Perpetua Titling MT", Serif;
+
+ 	width: 78%;
+ 	position: absolute;
+ 	right: 20px;
+ 	margin-top: 0.25%;
+ }
+ .ban{
+ 	margin-top: 3%;
+ 	vertical-align: middle;
+ 	margin-right: 5%
+
+ }
+ .row{
+
+	margin:2%;
+	margin-right: 8%
+
+ }
+
+ .row h3{
+ 	color: gray;
+	border-bottom: 1px solid silver;
+
+ }
+.display{
+	vertical-align: center;
+}
+
+  
+  .products {
+  display: flex;
+  flex-wrap: wrap;
+    margin-top: 2%;
+  margin-bottom: 2%;
+
+}
+.product-card {
+  padding: 2%;
+  flex-grow: 1;
+  flex-basis: 21%;
+
+
+}
+
+.product-image img{
+
+	max-width: 100%;
+}
+
+.product-info{
+ margin-top: auto;
+ text-align: left;
+ font-size: 2.01vh;
+
+}
+
+a{
+	text-decoration: none;
+	color:black;
+}
