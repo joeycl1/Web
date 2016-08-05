@@ -1,0 +1,115 @@
+header{
+	padding-top: 3px;
+}
+header h1{
+	font-family: "Perpetua Titling MT", Serif;
+	font-size: 8vh;
+	padding-left: 5px;
+	color: #dd969a;
+	margin-top: 10px;
+	margin-bottom: 0;
+	text-align: center;
+
+}
+
+a{
+	text-decoration: none;
+}
+.n1 {
+	padding-bottom: 1%;
+	border-bottom: 1px solid gray;
+position: relative;
+min-width: 500px;
+	text-align: center;
+
+}
+ li{
+
+	font-size: 3vh;
+	text-align: center;
+	display: inline;
+	margin: 5vw;
+}
+li a{
+	text-decoration: none;
+	color: gray;
+	}
+	.n1 li a:hover{
+		color:pink;
+		text-shadow:0 0 1px gray;
+
+	}
+ul{
+	list-style-type: none;
+}
+
+
+header img{
+	vertical-align:middle;
+}
+	
+
+
+	h1, h3{
+		font-family: "Perpetua Titling MT", Serif;
+
+	}
+
+.headline h1{
+	margin-top: 9px;
+	margin-bottom:5px;
+	color: gray;
+}
+.headline h3{
+	margin-top: 2px;
+	margin-bottom: 2%;
+	margin-left: 15%;
+	color:#947a7a;
+}
+
+	body{
+		margin-left: 12%;
+		margin-right: 12%;
+		margin-top: 1%;
+		margin-bottom: 5%;
+
+
+	}
+
+	img{
+		max-width: 100%;
+	    height: auto;
+	    width: auto\9;
+	}
+
+
+
+	.left{
+		text-align: center;
+	}
+
+
+	.text{
+		font-size: 115%;
+		border-bottom: 1px solid silver;
+	}
+
+	blockquote{
+		font-size: 1.6em;
+		font-style: italic;
+		margin:0.65em 0;
+		padding:0.65em 0;
+		color: gray;
+		text-align: center;
+	}
+
+	blockquote cite{
+		color: silver;
+		font-size: 0.8em;
+		display: block;
+		font-style: normal;
+	}
+
+	.quote{
+		border-bottom: 1px solid silver;
+	}
